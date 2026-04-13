@@ -1,18 +1,34 @@
-### Hi there 👋
+# 👋 Olá, eu sou Marcelo Motta
 
-- 🌱 I’m currently learning JavaScript and C#
+🎓 Formação em Economia e Desenvolvimento de Sistemas  
+🚀 Desenvolvedor web fullstack com experiência em implantação e desenvolvimento de software  
 
-<!--
-**mottamarcelo/mottamarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo com desenvolvimento de sistemas e tenho experiência prática em todo o ciclo de implantação de software, desde análise até entrega. Tenho interesse em soluções eficientes, organização de código e boas práticas de desenvolvimento.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- 💡 Linguagens: C#, Python, SQL  
+- ⚙️ Frameworks: .NET  
+- 🌐 Front-end: AngularJS, React  
+- 🗄️ Banco de Dados: SQL Server  
+- 🔄 Versionamento: Git e GitHub  
+- 📦 Metodologias: Ágeis (Scrum/Kanban)  
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor, aprofundando conhecimentos em arquitetura de software, boas práticas e desenvolvimento full stack.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/marcelo-rodrigues-motta-1830321b8/
+- Email: marcelorodriguesmotta@gmail.com
